@@ -2,8 +2,7 @@
 
 # Output for 1 million input size
 
-   ![SingleThreaded_1m](https://user-images.githubusercontent.com/42229671/148554540-e773b47d-ceac-4aea-a7e9-5ea3414aebdc.png)
-
+![Single 1 million](https://user-images.githubusercontent.com/42229671/148640602-4233019d-fcb5-4437-898c-818dd72a3dfe.PNG)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
@@ -11,12 +10,13 @@
 
 # Output for 5 million input size
       
-![SingleThreaded_5m](https://user-images.githubusercontent.com/42229671/148554591-f1ce3fdc-2c41-4e01-9cf1-288451169347.png)
+![Single 5 million](https://user-images.githubusercontent.com/42229671/148640618-9aa124ea-f971-4e30-a15f-721e0e5420f4.PNG)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Output for 10 million input size
 
-![SingleThreaded_10m](https://user-images.githubusercontent.com/42229671/148554624-ffc19403-161e-488e-8ece-3b05a8b8fb17.png)
+![Single 5 million](https://user-images.githubusercontent.com/42229671/148640625-89dd388d-a7f5-44e0-bdee-f4e599fef76f.PNG)
 
