@@ -24,7 +24,7 @@ public class StoreInArray{
 
             //Task
             //************************************************************************************
-            System.out.println("                     iterateLoopStart: "+iterateLoopStart+"        iterateLoopEnd: "+iterateLoopEnd+"    by thread: "+Thread.currentThread().getName());
+//            System.out.println("        by thread: "+Thread.currentThread().getName()+ "       iterateLoopStart: "+iterateLoopStart+"        iterateLoopEnd: "+iterateLoopEnd);
 
             for (int i = iterateLoopStart; i <= iterateLoopEnd; i++) {
                 String[] strArray = new String[6];
@@ -55,7 +55,7 @@ public class StoreInArray{
 
             //ending time
             end = System.currentTimeMillis();
-            System.out.println("         by thread: "+Thread.currentThread().getName()+ "       storing input through char array in 6 different arrays from list with "+ReadInputs.noOfLines+" size takes: " + (end - start) + "ms");
+            System.out.println("        Loop("+iterateLoopStart+" -> "+iterateLoopEnd+")    Storing in Array and Evaluating "+ReadInputs.noOfLines+" inputs takes: " + (end - start) + "ms");
 //            System.out.println("     "+start+"  "+end);
             //-------------------------------------------------------------------------------------------------
 //            print();
