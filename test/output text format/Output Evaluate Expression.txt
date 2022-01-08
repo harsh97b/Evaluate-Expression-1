@@ -1,0 +1,59 @@
+Output Single 1 million
+---------------------------------Proceeding to the ReadInputs------------------------------------
+        Storing 1000000 lines of input in List takes: 441ms
+        ReadInputs.noOfLines: 1000000
+        creating 6 arrays with size 1000000  takes: 25ms
+Running ReadInputs takes: 499ms
+-------------------------Proceeding to the StoreInArray and Evaluating---------------------------
+        Loop(0 -> 999999)    Storing in Array and Evaluating 1000000 inputs takes: 2355ms
+-----------------------------Proceeding to the StoreInMapToGroupBy-------------------------------
+Running StoreInMapToGroupBy takes: 225ms
+-------------------------------Proceeding to the PrintResult------------------------------------
+europe germany 1.16E7
+europe france 2.0E7
+asia india 1.04E7
+Running PrintResult takes: 3ms
+-------------------------------< Whole program took: 3115ms >-----------------------------------
+
+
+
+
+Output Single 5 million
+---------------------------------Proceeding to the ReadInputs------------------------------------
+        Storing 5000000 lines of input in List takes: 1778ms
+        ReadInputs.noOfLines: 5000000
+        creating 6 arrays with size 5000000  takes: 153ms
+Running ReadInputs takes: 1955ms
+-------------------------Proceeding to the StoreInArray and Evaluating---------------------------
+        Loop(0 -> 4999999)    Storing in Array and Evaluating 5000000 inputs takes: 7737ms
+-----------------------------Proceeding to the StoreInMapToGroupBy-------------------------------
+Running StoreInMapToGroupBy takes: 655ms
+-------------------------------Proceeding to the PrintResult------------------------------------
+europe germany 5.8E7
+europe france 1.0E8
+asia india 5.2E7
+Running PrintResult takes: 6ms
+-------------------------------< Whole program took: 10404ms >-----------------------------------
+
+
+
+
+Output Single 10 million
+---------------------------------Proceeding to the ReadInputs------------------------------------
+        Storing 10000000 lines of input in List takes: 3276ms
+        ReadInputs.noOfLines: 10000000
+        creating 6 arrays with size 10000000  takes: 148ms
+Running ReadInputs takes: 3450ms
+-------------------------Proceeding to the StoreInArray and Evaluating---------------------------
+        Loop(0 -> 9999999)    Storing in Array and Evaluating 10000000 inputs takes: 21662ms
+-----------------------------Proceeding to the StoreInMapToGroupBy-------------------------------
+Running StoreInMapToGroupBy takes: 2177ms
+-------------------------------Proceeding to the PrintResult------------------------------------
+europe germany 1.16E8
+europe france 2.0E8
+asia india 1.04E8
+Running PrintResult takes: 9ms
+-------------------------------< Whole program took: 27334ms >-----------------------------------
+
+
+
