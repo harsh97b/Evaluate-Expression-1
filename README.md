@@ -81,5 +81,5 @@ There are 2 ways to specify the expression and path of the input file in this pr
 
 # Output for 10 million input size
 
-![Single 5 million](https://user-images.githubusercontent.com/42229671/148640625-89dd388d-a7f5-44e0-bdee-f4e599fef76f.PNG)
+![Single 10 million](https://user-images.githubusercontent.com/42229671/151654627-acf01e96-9e91-461b-a6ce-70711877a238.PNG)
 
